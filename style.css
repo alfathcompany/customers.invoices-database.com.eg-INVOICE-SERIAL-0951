@@ -1,0 +1,15 @@
+body{
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+}
+a{
+    font-size: 30px;
+}
+.invoNum{
+    font-size: 35px;
+    color: red;
+}
+.name{
+    font-size: 35px;
+    color: slateblue;
+}
